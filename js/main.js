@@ -95,7 +95,7 @@ function buildModal(showObj) {
 	let modalContent = `
 			<button class="modal-close-btn" id="close-btn"><i class="fa fa-times" title="关"></i></button>
 			<div class="backdrop-img">
-				<img src="./assets/backdrops/${showObj.name}.jpg" alt="./assets/backdrops/default.jpg" onerror="this.onerror=null;this.src='./assets/backdrops/default.jpg';">
+				<img src="${showObj.imgfolder}/backdrop.webp" alt="./assets/backdrops/default.jpg" onerror="this.onerror=null;this.src='./assets/imgs/default-backdrop.webp';">
 			</div><!-- /photo -->
 
 			<h1 class="modal-header">${showObj.name}</h1>
@@ -209,6 +209,42 @@ function renderScreen(newCategory, contentElement, buildDisplayFunc) {
 	});
 }
 
+function preloadImage(url) {
+	let img = new Image();
+	img.src = url;
+}
+
+function preloadCatalogImages(catalog) {
+	console.log(catalog);
+	let shows = catalog.shows;
+	let movies = catalog.movies;
+	let imgs = [];
+	if(shows) {
+		console.log("shows");
+		for(i = 0; i < shows.length; i++) {
+			let currShow = shows[i];
+			for(j = 0; j < currShow.imgs.length; j++) {
+				imgs.push(currShow.imgfolder + '/' + currShow.imgs[j]);
+			}
+		}
+	}
+
+	if(movies) {
+		console.log("movies");
+		for(i = 0; i < movies.length; i++) {
+			let currMovie = movies[i];
+			for(j = 0; j < currMovie.imgs.length; j++) {
+				imgs.push(currMovie.imgfolder + '/' + currMovie.imgs[j]);
+			}
+		}
+	}
+
+	for(i = 0; i < imgs.length; i++) {
+		console.log("img:", imgs[i]);
+		preloadImage(imgs[i]);
+	}
+}
+
 // ==================================================
 // main events
 // ==================================================
@@ -216,6 +252,9 @@ function renderScreen(newCategory, contentElement, buildDisplayFunc) {
 // get content elements
 let content = document.getElementById('content');
 let contentGrid = content.getElementsByClassName('grid')[0];
+
+// preload images to browser
+preloadCatalogImages(catalog.chinese);
 
 // get chinese shows and movies
 let chineseShows = catalog.chinese.shows;

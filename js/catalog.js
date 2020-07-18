@@ -7,12 +7,12 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/致我们单纯的小美好",
 				"imgs": [
-					"致我们单纯的小美好img1.jpg",
-					"致我们单纯的小美好img2.jpg",
-					"致我们单纯的小美好img3.jpg",
-					"致我们单纯的小美好img4.jpg",
-					"致我们单纯的小美好img5.jpg",
-					"致我们单纯的小美好img6.jpg"
+					"致我们单纯的小美好img1.webp",
+					"致我们单纯的小美好img2.webp",
+					"致我们单纯的小美好img3.webp",
+					"致我们单纯的小美好img4.webp",
+					"致我们单纯的小美好img5.webp",
+					"致我们单纯的小美好img6.webp"
 				],
 				"seasons": [
 					{
@@ -29,8 +29,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/刺客伍六七",
 				"imgs": [
-					"刺客伍六七img1.jpg",
-					"刺客伍六七img2.jpeg"
+					"刺客伍六七img1.webp",
+					"刺客伍六七img2.webp"
 				],
 				"seasons": [
 					{
@@ -53,15 +53,15 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/流星花园",
 				"imgs": [
-					"流星花园img1.png",
-					"流星花园img2.jpeg",
-					"流星花园img3.jpeg",
-					"流星花园img4.jpeg",
-					"流星花园img5.jpeg",
-					"流星花园img6.jpeg",
-					"流星花园img7.jpeg",
-					"流星花园img8.jpeg",
-					"流星花园img9.jpeg"
+					"流星花园img1.webp",
+					"流星花园img2.webp",
+					"流星花园img3.webp",
+					"流星花园img4.webp",
+					"流星花园img5.webp",
+					"流星花园img6.webp",
+					"流星花园img7.webp",
+					"流星花园img8.webp",
+					"流星花园img9.webp"
 				],
 				"seasons": [
 					{
@@ -78,10 +78,10 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/惹上冷殿下",
 				"imgs": [
-					"惹上冷殿下img1.jpg",
-					"惹上冷殿下img2.jpg",
-					"惹上冷殿下img3.jpeg",
-					"惹上冷殿下img4.jpg"
+					"惹上冷殿下img1.webp",
+					"惹上冷殿下img2.webp",
+					"惹上冷殿下img3.webp",
+					"惹上冷殿下img4.webp"
 				],
 				"seasons": [
 					{
@@ -98,13 +98,13 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/全职高手",
 				"imgs": [
-					"全职高手img1.png",
-					"全职高手img2.png",
-					"全职高手img3.jpg",
-					"全职高手img4.jpeg",
-					"全职高手img5.jpg",
-					"全职高手img6.jpg",
-					"全职高手img7.jpeg",
+					"全职高手img1.webp",
+					"全职高手img2.webp",
+					"全职高手img3.webp",
+					"全职高手img4.webp",
+					"全职高手img5.webp",
+					"全职高手img6.webp",
+					"全职高手img7.webp",
 				],
 				"seasons": [
 					{
@@ -121,8 +121,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/锦绣未央",
 				"imgs": [
-					"锦绣未央img1.jpeg",
-					"锦绣未央img2.jpg"
+					"锦绣未央img1.webp",
+					"锦绣未央img2.webp"
 				],
 				"seasons": [
 					{
@@ -139,8 +139,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/微微一笑很倾城",
 				"imgs": [
-					"微微一笑很倾城img1.jpg",
-					"微微一笑很倾城img2.jpg",
+					"微微一笑很倾城img1.webp",
+					"微微一笑很倾城img2.webp",
 				],
 				"seasons": [
 					{
@@ -157,8 +157,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/陈情令",
 				"imgs": [
-					"陈情令img1.jpeg",
-					"陈情令img2.jpeg"
+					"陈情令img1.webp",
+					"陈情令img2.webp"
 				],
 				"seasons": [
 					{
@@ -175,8 +175,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/独家记忆",
 				"imgs": [
-					"独家记忆img1.jpg",
-					"独家记忆img2.jpg"
+					"独家记忆img1.webp",
+					"独家记忆img2.webp"
 				],
 				"seasons": [
 					{
@@ -193,8 +193,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/奈何BOSS要娶我",
 				"imgs": [
-					"奈何BOSS要娶我img1.jpg",
-					"奈何BOSS要娶我img2.jpg"
+					"奈何BOSS要娶我img1.webp",
+					"奈何BOSS要娶我img2.webp"
 				],
 				"seasons": [
 					{
@@ -217,8 +217,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/奋斗吧，少年！",
 				"imgs": [
-					"奋斗吧，少年！img1.jpeg",
-					"奋斗吧，少年！img2.jpg"
+					"奋斗吧，少年！img1.webp",
+					"奋斗吧，少年！img2.webp"
 				],
 				"seasons": [
 					{
@@ -235,8 +235,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/致我们暖暖的小时光",
 				"imgs": [
-					"致我们暖暖的小时光img1.jpeg",
-					"致我们暖暖的小时光img2.jpg"
+					"致我们暖暖的小时光img1.webp",
+					"致我们暖暖的小时光img2.webp"
 				],
 				"seasons": [
 					{
@@ -253,8 +253,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/暗恋橘生淮南",
 				"imgs": [
-					"暗恋橘生淮南img1.jpg",
-					"暗恋橘生淮南img2.jpg"
+					"暗恋橘生淮南img1.webp",
+					"暗恋橘生淮南img2.webp"
 				],
 				"seasons": [
 					{
@@ -271,7 +271,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/他们在毕业的前一天",
 				"imgs": [
-					"他们在毕业的前一天img1.jpg"
+					"他们在毕业的前一天img1.webp"
 				],
 				"seasons": [
 					{
@@ -288,8 +288,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/绝代双骄",
 				"imgs": [
-					"绝代双骄img1.jpg",
-					"绝代双骄img2.jpg"
+					"绝代双骄img1.webp",
+					"绝代双骄img2.webp"
 				],
 				"seasons": [
 					{
@@ -306,7 +306,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/新白娘子传奇",
 				"imgs": [
-					"新白娘子传奇img1.jpeg"
+					"新白娘子传奇img1.webp"
 				],
 				"seasons": [
 					{
@@ -323,8 +323,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/三生三世十里桃花",
 				"imgs": [
-					"三生三世十里桃花img1.jpg",
-					"三生三世十里桃花img2.jpg"
+					"三生三世十里桃花img1.webp",
+					"三生三世十里桃花img2.webp"
 				],
 				"seasons": [
 					{
@@ -341,8 +341,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/香蜜沉沉烬如霜",
 				"imgs": [
-					"香蜜沉沉烬如霜img1.jpeg",
-					"香蜜沉沉烬如霜img2.jpg",
+					"香蜜沉沉烬如霜img1.webp",
+					"香蜜沉沉烬如霜img2.webp",
 				],
 				"seasons": [
 					{
@@ -359,7 +359,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/下一站幸福",
 				"imgs": [
-					"下一站幸福img1.jpg"
+					"下一站幸福img1.webp"
 				],
 				"seasons": [
 					{
@@ -376,12 +376,12 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/天盛长歌",
 				"imgs": [
-					"天盛长歌img1.jpg",
-					"天盛长歌img2.jpg",
-					"天盛长歌img3.jpg",
-					"天盛长歌img4.jpg",
-					"天盛长歌img5.jpg",
-					"天盛长歌img6.jpg",
+					"天盛长歌img1.webp",
+					"天盛长歌img2.webp",
+					"天盛长歌img3.webp",
+					"天盛长歌img4.webp",
+					"天盛长歌img5.webp",
+					"天盛长歌img6.webp",
 				],
 				"seasons": [
 					{
@@ -398,10 +398,10 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/快把我哥带走",
 				"imgs": [
-					"快把我哥带走img1.jpeg",
-					"快把我哥带走img2.jpg",
-					"快把我哥带走img3.jpg",
-					"快把我哥带走img4.jpg",
+					"快把我哥带走img1.webp",
+					"快把我哥带走img2.webp",
+					"快把我哥带走img3.webp",
+					"快把我哥带走img4.webp",
 				],
 				"seasons": [
 					{
@@ -418,11 +418,11 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/幻城",
 				"imgs": [
-					"幻城img1.jpg",
-					"幻城img2.jpg",
-					"幻城img3.jpg",
-					"幻城img4.jpg",
-					"幻城img5.jpg",
+					"幻城img1.webp",
+					"幻城img2.webp",
+					"幻城img3.webp",
+					"幻城img4.webp",
+					"幻城img5.webp",
 				],
 				"seasons": [
 					{
@@ -439,7 +439,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/等等啊我的青春",
 				"imgs": [
-					"等等啊我的青春.jpg",
+					"等等啊我的青春.webp",
 				],
 				"seasons": [
 					{
@@ -456,7 +456,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/白夜追凶",
 				"imgs": [
-					"白夜追凶img1.jpg",
+					"白夜追凶img1.webp",
 				],
 				"seasons": [
 					{
@@ -473,8 +473,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/shows/初恋那件小事",
 				"imgs": [
-					"初恋那件小事img1.jpg",
-					"初恋那件小事img2.jpg",
+					"初恋那件小事img1.webp",
+					"初恋那件小事img2.webp",
 				],
 				"seasons": [
 					{
@@ -493,8 +493,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/大鱼海棠",
 				"imgs": [
-					"大鱼海棠img1.jpg",
-					"大鱼海棠img2.jpg"
+					"大鱼海棠img1.webp",
+					"大鱼海棠img2.webp"
 				],
 				"seasons": [
 					{
@@ -512,9 +512,9 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/微微一笑很倾城TheMovie",
 				"imgs": [
-					"微微一笑很倾城TheMovieimg1.jpg",
-					"微微一笑很倾城TheMovieimg2.jpg",
-					"微微一笑很倾城TheMovieimg3.jpg"
+					"微微一笑很倾城TheMovieimg1.webp",
+					"微微一笑很倾城TheMovieimg2.webp",
+					"微微一笑很倾城TheMovieimg3.webp"
 				],
 				"seasons": [
 					{
@@ -532,8 +532,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/后来的我们",
 				"imgs": [
-					"后来的我们img1.jpg",
-					"后来的我们img2.jpg"
+					"后来的我们img1.webp",
+					"后来的我们img2.webp"
 				],
 				"seasons": [
 					{
@@ -550,8 +550,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/千与千寻",
 				"imgs": [
-					"千与千寻img1.jpeg",
-					"千与千寻img2.jpg",
+					"千与千寻img1.webp",
+					"千与千寻img2.webp",
 				],
 				"seasons": [
 					{
@@ -568,8 +568,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/龙猫",
 				"imgs": [
-					"龙猫img1.jpg",
-					"龙猫img2.jpg",
+					"龙猫img1.webp",
+					"龙猫img2.webp",
 				],
 				"seasons": [
 					{
@@ -586,7 +586,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/天空之城",
 				"imgs": [
-					"天空之城img1.jpg",
+					"天空之城img1.webp",
 				],
 				"seasons": [
 					{
@@ -603,7 +603,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/魔女宅急便",
 				"imgs": [
-					"魔女宅急便img1.jpg",
+					"魔女宅急便img1.webp",
 				],
 				"seasons": [
 					{
@@ -620,8 +620,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/哈尔的移动城堡",
 				"imgs": [
-					"哈尔的移动城堡img1.jpg",
-					"哈尔的移动城堡img2.jpg",
+					"哈尔的移动城堡img1.webp",
+					"哈尔的移动城堡img2.webp",
 				],
 				"seasons": [
 					{
@@ -639,8 +639,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/风之谷",
 				"imgs": [
-					"风之谷img1.jpg",
-					"风之谷img2.jpg"
+					"风之谷img1.webp",
+					"风之谷img2.webp"
 				],
 				"seasons": [
 					{
@@ -657,7 +657,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/幽灵公主",
 				"imgs": [
-					"幽灵公主img1.jpg",
+					"幽灵公主img1.webp",
 				],
 				"seasons": [
 					{
@@ -674,8 +674,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/猫的报恩",
 				"imgs": [
-					"猫的报恩img1.jpg",
-					"猫的报恩img2.jpg",
+					"猫的报恩img1.webp",
+					"猫的报恩img2.webp",
 				],
 				"seasons": [
 					{
@@ -692,7 +692,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/百变狸猫",
 				"imgs": [
-					"百变狸猫img1.jpg",
+					"百变狸猫img1.webp",
 				],
 				"seasons": [
 					{
@@ -709,7 +709,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/红猪",
 				"imgs": [
-					"红猪img1.jpg",
+					"红猪img1.webp",
 				],
 				"seasons": [
 					{
@@ -726,8 +726,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/地海传说",
 				"imgs": [
-					"地海传说img1.jpg",
-					"地海传说img2.jpg",
+					"地海传说img1.webp",
+					"地海传说img2.webp",
 				],
 				"seasons": [
 					{
@@ -744,7 +744,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/记忆中的玛妮",
 				"imgs": [
-					"记忆中的玛妮img1.jpg",
+					"记忆中的玛妮img1.webp",
 				],
 				"seasons": [
 					{
@@ -761,7 +761,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/侧耳倾听",
 				"imgs": [
-					"侧耳倾听img1.jpg",
+					"侧耳倾听img1.webp",
 				],
 				"seasons": [
 					{
@@ -778,8 +778,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/虞美人盛开的山坡",
 				"imgs": [
-					"虞美人盛开的山坡img1.jpg",
-					"虞美人盛开的山坡img2.jpg",
+					"虞美人盛开的山坡img1.webp",
+					"虞美人盛开的山坡img2.webp",
 				],
 				"seasons": [
 					{
@@ -796,7 +796,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/我的邻居山田君",
 				"imgs": [
-					"我的邻居山田君img1.jpg",
+					"我的邻居山田君img1.webp",
 				],
 				"seasons": [
 					{
@@ -813,7 +813,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/辉夜姬物语",
 				"imgs": [
-					"辉夜姬物语img1.jpg",
+					"辉夜姬物语img1.webp",
 				],
 				"seasons": [
 					{
@@ -830,8 +830,8 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/听到涛声",
 				"imgs": [
-					"听到涛声img1.jpg",
-					"听到涛声img2.jpg",
+					"听到涛声img1.webp",
+					"听到涛声img2.webp",
 				],
 				"seasons": [
 					{
@@ -848,7 +848,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/借东西的小人阿莉埃蒂",
 				"imgs": [
-					"借东西的小人阿莉埃蒂img1.jpg",
+					"借东西的小人阿莉埃蒂img1.webp",
 				],
 				"seasons": [
 					{
@@ -865,7 +865,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/岁月的童话",
 				"imgs": [
-					"岁月的童话img1.jpeg",
+					"岁月的童话img1.webp",
 				],
 				"seasons": [
 					{
@@ -882,7 +882,7 @@ const catalog = {
 				"language": "Mandarin Chinese",
 				"imgfolder": "./assets/imgs/chinese/movies/悬崖上的金鱼姬",
 				"imgs": [
-					"悬崖上的金鱼姬img1.jpg",
+					"悬崖上的金鱼姬img1.webp",
 				],
 				"seasons": [
 					{
