@@ -64,7 +64,7 @@ function changeImages(arr, catalog) {
 			}, fadeTime);
 
 			//cardImg.src = "./assets/imgs/" + newImg;
-			cardImg.src = `${catalogItem.imgfolder}/${newImg}`;
+			cardImg.src = `${catalogItem.imgfolder}/${newImg}.jpg`;
 			cardImg.classList.add('switch-img-in');
 			setTimeout(function() {
 				cardImg.classList.remove('switch-img-in');
@@ -166,7 +166,7 @@ function buildDisplayCard(content) {
 		let img = chooseRandomImage(content.imgs);
 		card += `
 			<div class="photo">
-				<img src="${content.imgfolder}/${img}" alt="${img}">
+				<img src="${content.imgfolder}/${img}.jpg" alt="${img}">
 			</div><!-- /photo -->
 		`;
 	} else {
@@ -212,6 +212,7 @@ function renderScreen(newCategory, contentElement, buildDisplayFunc) {
 function preloadImage(url) {
 	let img = new Image();
 	img.src = url;
+	console.log("url", img.src);
 }
 
 function preloadCatalogImages(catalog) {
@@ -220,27 +221,22 @@ function preloadCatalogImages(catalog) {
 	let movies = catalog.movies;
 	let imgs = [];
 	if(shows) {
-		console.log("shows");
 		for(i = 0; i < shows.length; i++) {
 			let currShow = shows[i];
 			for(j = 0; j < currShow.imgs.length; j++) {
-				imgs.push(currShow.imgfolder + '/' + currShow.imgs[j]);
+				imgs.push(currShow.imgfolder + '/' + currShow.imgs[j] + '.jpg');
 			}
 		}
 	}
-
 	if(movies) {
-		console.log("movies");
 		for(i = 0; i < movies.length; i++) {
 			let currMovie = movies[i];
 			for(j = 0; j < currMovie.imgs.length; j++) {
-				imgs.push(currMovie.imgfolder + '/' + currMovie.imgs[j]);
+				imgs.push(currMovie.imgfolder + '/' + currMovie.imgs[j] + '.jpg');
 			}
 		}
 	}
-
 	for(i = 0; i < imgs.length; i++) {
-		console.log("img:", imgs[i]);
 		preloadImage(imgs[i]);
 	}
 }
