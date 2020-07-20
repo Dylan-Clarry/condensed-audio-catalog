@@ -1,22 +1,3 @@
-let buildMovieCard = content => {
-	console.log(content);
-	let card = `
-		<div class="grid-card">
-			<div class="photo">
-				<img src="./assets/imgs/${content.img}" alt="${content.img}">
-			</div><!-- /photo -->
-
-			<div class="movie-info">
-				<h3>${content.name}</h3>
-				<p>Episodes: ${content.episodes}</p>
-				<p>Audio Language: ${content.language}</p>
-				<p>Download <a href="${content.link}" target="_blank">here</a></p>
-			</div><!-- /movie-info -->
-		</div><!-- /grid-card -->
-	`;
-	return card;
-}
-
 function chooseRandomImage(arr) {
 	return arr[Math.floor(Math.random() * arr.length)];
 }
@@ -95,7 +76,7 @@ function buildModal(showObj) {
 	let modalContent = `
 			<button class="modal-close-btn" id="close-btn"><i class="fa fa-times" title="关"></i></button>
 			<div class="backdrop-img">
-				<img src="${showObj.imgfolder}/backdrop.webp" alt="./assets/backdrops/default.jpg" onerror="this.onerror=null;this.src='./assets/imgs/default-backdrop.webp';">
+				<img src="${showObj.imgfolder}/backdrop.jpg" alt="./assets/backdrops/default.jpg" onerror="this.onerror=null;this.src='./assets/imgs/default-backdrop.jpg';">
 			</div><!-- /photo -->
 
 			<h1 class="modal-header">${showObj.name}</h1>
