@@ -118,6 +118,7 @@ a:hover {
 	margin: 0;
 	padding-bottom: 5px;
 	padding-left: 10px;
+	padding-right: 10px;
 	color: #808084;
 }
 
@@ -209,18 +210,34 @@ a:hover {
 	font-size: 28px;
 }
 
-@media (min-width: 576px) {
-
+#shrink-modal-header {
+	font-size: 24px;
 }
+#extra-shrink-modal-header {
+	top: 400px;
+	font-size: 24px;
+}
+
 @media (min-width: 768px) {
 	.modal-header {
 		top: 385px;
 		font-size: 54px;
 	}
+	#shrink-modal-header {
+		font-size: 48px;
+	}
+	#extra-shrink-modal-header {
+		top: 400px;
+		font-size: 28px;
+	}
 }
+
 @media (min-width: 992px) {
-	
+	.modal {
+		max-width: 70%;
+	}
 }
+
 @media (min-width: 1200px) {
 	.modal {
 		max-width: 60%;
@@ -228,6 +245,14 @@ a:hover {
 	.modal-header {
 		top: 350px;
 		font-size: 72px;
+	}
+	#shrink-modal-header {
+		top: 380px;
+		font-size: 48px;
+	}
+	#extra-shrink-modal-header {
+		top: 400px;
+		font-size: 32px;
 	}
 }
 

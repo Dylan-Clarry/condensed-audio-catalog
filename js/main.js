@@ -74,17 +74,36 @@ function chooseNRandom(arr, n) {
 function buildModal(showObj) {
 	let modal = document.getElementById('modal');
 	let modalContent = `
-			<button class="modal-close-btn" id="close-btn"><i class="fa fa-times" title="关"></i></button>
-			<div class="backdrop-img">
-				<img src="${showObj.imgfolder}/backdrop.jpg" alt="./assets/backdrops/default.jpg" onerror="this.onerror=null;this.src='./assets/imgs/default-backdrop.jpg';">
-			</div><!-- /photo -->
+		<button class="modal-close-btn" id="close-btn"><i class="fa fa-times" title="关"></i></button>
+		<div class="backdrop-img">
+			<img src="${showObj.imgfolder}/backdrop.jpg" alt="./assets/backdrops/default.jpg" onerror="this.onerror=null;this.src='./assets/imgs/default-backdrop.jpg';">
+		</div><!-- /photo -->
+	`;
 
+	console.log("length", showObj.name.length);
+	let titleLength = showObj.name.length;
+	
+	if(titleLength < 10) {
+		modalContent += `
 			<h1 class="modal-header">${showObj.name}</h1>
-			<div class="show-info">
-				<h1>${showObj.engname}</h1>
-				<p>Audio Language: ${showObj.language}</p>
-				<div class="show-seasons">
 		`;
+	} else if(titleLength < 16) {
+		console.log("HONEY I SHRUNK THE KIDS!!!");
+		modalContent += `
+			<h1 id="shrink-modal-header" class="modal-header">${showObj.name}</h1>
+		`;
+	} else {
+		modalContent += `
+			<h1 id="extra-shrink-modal-header" class="modal-header">${showObj.name}</h1>
+		`;
+	}
+
+	modalContent += `
+		<div class="show-info">
+			<h1>${showObj.engname}</h1>
+			<p>Audio Language: ${showObj.language}</p>
+			<div class="show-seasons">
+	`;
 	seasons = showObj.seasons;
 	for(let i = 0; i < seasons.length; i++) {
 		season = seasons[i];
@@ -98,7 +117,16 @@ function buildModal(showObj) {
 
 					<div class="season-downloads">
 						<p><u><a href="${season.link}" target="_blank">Condensed Audio</a></u></p>
-						<p><u><a href="${season.subslink}" target="_blank">Subtitle Files</a></u></p>
+		`;
+
+		if(season.subslink) {
+			modalContent += `
+							<p><u><a href="${season.subslink}" target="_blank">Subtitle Files</a></u></p>
+			`;
+		}
+
+
+		modalContent += `
 					</div><!-- /season-details -->
 				</div><!-- /show-season -->
 		`;
@@ -148,6 +176,7 @@ function buildDisplayCard(content) {
 			</div><!-- /photo -->
 		`;
 	} else {
+		console.log("OH GOODNESS, IT HAS HAPPENED!");
 		card += `
 			<div class="photo">
 				<img src="./assets/imgs/default-poster.jpg" alt="default-poster.jpg">
@@ -190,7 +219,7 @@ function renderScreen(newCategory, contentElement, buildDisplayFunc) {
 function preloadImage(url) {
 	let img = new Image();
 	img.src = url;
-	console.log("url", img.src);
+	//console.log("url", img.src);
 }
 
 function preloadCatalogImages(catalog) {
@@ -241,21 +270,28 @@ if(!isMobile) {
 	preloadCatalogImages(catalog.chinese);
 }
 
-// get chinese shows and movies
-let chineseShows = catalog.chinese.shows;
-let chineseMovies = catalog.chinese.movies;
-let currCategory = chineseShows;
 
 // categories event listeners
-let showCategory = document.getElementById('shows-category');
-showCategory.addEventListener('click', _ => {
+let chineseShows = catalog.chinese.shows;
+let chineseShowsCategory = document.getElementById('chinese-shows-category');
+chineseShowsCategory.addEventListener('click', _ => {
 	renderScreen(chineseShows, contentGrid, buildDisplayCard);
 });
 
-let movieCategory = document.getElementById('movies-category');
-movieCategory.addEventListener('click', _ => {
+let chineseMovies = catalog.chinese.movies;
+let chineseMoviesCategory = document.getElementById('chinese-movies-category');
+chineseMoviesCategory.addEventListener('click', _ => {
 	renderScreen(chineseMovies, contentGrid, buildDisplayCard)
 });
+
+let japaneseShows = catalog.japanese.shows;
+let japaneseShowsCategory = document.getElementById('japanese-shows-category');
+japaneseShowsCategory.addEventListener('click', _ => {
+	renderScreen(japaneseShows, contentGrid, buildDisplayCard)
+});
+
+// set initial category to chinese shows
+let currCategory = chineseShows;
 
 // build content to screen
 renderScreen(chineseShows, contentGrid, buildDisplayCard);

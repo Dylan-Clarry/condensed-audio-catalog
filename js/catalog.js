@@ -894,5 +894,226 @@ const catalog = {
 				]
 			},
 		]
-	}	
+	},
+	"japanese": {
+		"shows": [
+			{
+				"name": "イエスタデイをうたって",
+				"engname": "Sing Yesterday for Me",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "360MB",
+						"link": "http://www.mediafire.com/file/v1i5jsak4l7r6re/SING_YESTERDAY_FOR_ME.condensed.zip/file",
+						"subslink": "http://www.mediafire.com/file/bu0t8vk6tn1m6lw/SING_YESTERDAY_FOR_ME.ja.srt.zip/file"
+					}
+				]
+			},
+			{
+				"name": "かぐや様は告らせたい: 天才たちの恋愛頭脳戦",
+				"engname": "Kaguya-sama: Love is War",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "234MB",
+						"link": "http://www.mediafire.com/file/qo4dexsecgkywgf/Kaguya-sama-_Love_is_War.zip/file",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "虚構推理",
+				"engname": "In|Spectre",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "403MB",
+						"link": "http://www.mediafire.com/file/bpbei3amptn5egb/In-Spectre.zip/file",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "この素晴らしい世界に祝福を!",
+				"engname": "KonoSuba",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "10",
+						"size": "371MB",
+						"link": "http://www.mediafire.com/file/9cjb8szt7ncpque/KonoSuba_S01.zip/file",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "はねバド!",
+				"engname": "Hane Bado!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "380MB",
+						"link": "http://www.mediafire.com/file/k956om6haro3ykq/HANEBADO%2521.zip/file",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "はたらく魔王さま!",
+				"engname": "The Devil is a Part-Timer!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "491MB",
+						"link": "http://www.mediafire.com/file/km24dpwq4gh5sgg/Hataraku_Maou-sama%2521.zip/file",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "僕だけがいない街",
+				"engname": "ERASED",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "286MB",
+						"link": "http://www.mediafire.com/file/agvdpb0u33nuw9h/ERASED.zip/file",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+				"engname": "Rascal Does Not Dream of Bunny Girl Senpai",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "511MB",
+						"link": "http://www.mediafire.com/file/iv7bzvad6ym1rym/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai.zip/file",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ヴァイオレット・エヴァーガーデン",
+				"engname": "Violet Evergarden",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "400MB",
+						"link": "http://www.mediafire.com/file/lo3zv3c3j1h09tg/Violet_Evergarden.zip/file",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "借りぐらしのアリエッティ",
+				"engname": "The Secret World of Arrietty",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "1",
+						"size": "61MB",
+						"link": "http://www.mediafire.com/file/axvu95o48li1ytg/The_Borrowers_Arrietty_%25282010%2529.condensed.mp3/file",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "全裸監督",
+				"engname": "The Naked Director",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "",
+						"size": "526MB",
+						"link": "http://www.mediafire.com/file/v26o77vtsac3za0/The_Naked_Director.zip/file",
+						"subslink": ""
+					}
+				]
+			},
+		]
+	}
 }
+
+
+
+// TEMPLATE
+
+// {
+// 	"name": "",
+// 	"engname": "",
+// 	"language": "",
+// 	"imgfolder": "./assets/imgs/japanese/shows/",
+// 	"imgs": [
+// 		"",
+// 	],
+// 	"seasons": [
+// 		{
+// 			"episodes": "",
+// 			"size": "",
+// 			"link": "",
+// 			"subslink": ""
+// 		}
+// 	]
+// },
+
+
+
+
+
+
+
+
