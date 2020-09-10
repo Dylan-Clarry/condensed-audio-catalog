@@ -928,6 +928,12 @@ const catalog = {
 						"size": "234MB",
 						"link": "http://www.mediafire.com/file/qo4dexsecgkywgf/Kaguya-sama-_Love_is_War.zip/file",
 						"subslink": ""
+					},
+					{
+						"episodes": "12",
+						"size": "488MB",
+						"link": "https://www.mediafire.com/file/e6bj71uavidfuhi",
+						"subslink": ""
 					}
 				]
 			},
@@ -962,6 +968,12 @@ const catalog = {
 						"size": "371MB",
 						"link": "http://www.mediafire.com/file/9cjb8szt7ncpque/KonoSuba_S01.zip/file",
 						"subslink": ""
+					},
+					{
+						"episodes": "10",
+						"size": "401MB",
+						"link": "https://www.mediafire.com/file/29pitnoch1yx7vl",
+						"subslink": "https://www.mediafire.com/file/3u2t3x8viuukc7p"
 					}
 				]
 			},
@@ -978,7 +990,7 @@ const catalog = {
 						"episodes": "13",
 						"size": "380MB",
 						"link": "http://www.mediafire.com/file/k956om6haro3ykq/HANEBADO%2521.zip/file",
-						"subslink": ""
+						"subslink": "https://www.mediafire.com/file/apyca8c0n8gzhey"
 					}
 				]
 			},
@@ -1080,6 +1092,3107 @@ const catalog = {
 						"episodes": "",
 						"size": "526MB",
 						"link": "http://www.mediafire.com/file/v26o77vtsac3za0/The_Naked_Director.zip/file",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "とある魔術の 禁書目録 インデックス",
+				"engname": "A Certain Magical index",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "803MB",
+						"link": "https://www.mediafire.com/file/fvao92uooaa29tq",
+						"subslink": ""
+					},
+					{
+						"episodes": "24",
+						"size": "850MB",
+						"link": "https://www.mediafire.com/file/b1lejup9dcaty4u",
+						"subslink": ""
+					},
+					{
+						"episodes": "26",
+						"size": "932MB",
+						"link": "https://www.mediafire.com/file/l7ig6428p7vkp49",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "とある科学の 一方通行 アクセラレータ",
+				"engname": "A Certain Scientific Accelerator",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "400MB",
+						"link": "https://www.mediafire.com/file/xrrmbvi4qirzqxq",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "恋は雨上がりのように",
+				"engname": "After the Rain",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "350MB",
+						"link": "https://www.mediafire.com/file/7yduj011tazi626",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "あひるの空",
+				"engname": "Ahiru no Sora",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "45",
+						"size": "1.57GB",
+						"link": "https://www.mediafire.com/file/asl9d3y5kk952pm",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "エンジェルビーツ",
+				"engname": "Angel Beats!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "471MB",
+						"link": "https://www.mediafire.com/file/a1av54o909hgn03",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ありふれた職業で世界最強",
+				"engname": "Arifureta - From Commonplace to World's Strongest",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "320MB",
+						"link": "https://www.mediafire.com/file/20nmd0h8u571dds",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "本好きの下剋上 ～司書になるためには手段を選んでいられません～",
+				"engname": "Ascendance of a Bookworm",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "947MB",
+						"link": "https://www.mediafire.com/file/cysawdn1f8ibkz0",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "あそびあそばせ",
+				"engname": "Asobi Asobase",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "510MB",
+						"link": "https://www.mediafire.com/file/oegcsemzdu7oayx",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "暗殺教室",
+				"engname": "Assassination Classroom",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "22",
+						"size": "712MB",
+						"link": "https://www.mediafire.com/file/xh9brj0kf4wwc9j",
+						"subslink": ""
+					},
+					{
+						"episodes": "25",
+						"size": "750MB",
+						"link": "https://www.mediafire.com/file/ce9i2li9shk6fij",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "恋する小惑星",
+				"engname": "Asteroid in Love",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "490MB",
+						"link": "https://www.mediafire.com/file/86r7l3k09u43l41",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "彼方のアストラ",
+				"engname": "Astra Lost in Space",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "575MB",
+						"link": "https://www.mediafire.com/file/lyyjw4smkgc3lm3",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "バッカーノ！",
+				"engname": "Baccano!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "16",
+						"size": "585MB",
+						"link": "https://www.mediafire.com/file/utxlds5zpoyyg8t",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ビースターズ",
+				"engname": "Beastars",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "307MB",
+						"link": "https://www.mediafire.com/file/zm4ctmajylj7hg0",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "BEATLESS",
+				"engname": "BEATLESS",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "912MB",
+						"link": "https://www.mediafire.com/file/dypb87yfe71nlhk",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ブラッククローバー",
+				"engname": "Black Clover",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "34",
+						"size": "1.15GB",
+						"link": "https://www.mediafire.com/file/86bjtjujlle687t",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ブラック★ロックシューター",
+				"engname": "Black Rock Shooter",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "8",
+						"size": "225MB",
+						"link": "https://www.mediafire.com/file/nladfj32fdo2cd2",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "やがて君になる",
+				"engname": "Bloom Into You",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "470MB",
+						"link": "https://www.mediafire.com/file/fteeujdrae4vxtp",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "寄宿学校のジュリエット",
+				"engname": "Boarding School Juliet",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "534MB",
+						"link": "https://www.mediafire.com/file/eapxfjevn54h2rk",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "痛いのは嫌なので防御力に極振りしたいと思います",
+				"engname": "BOFURI - I Don’t Want to Get Hurt, so I’ll Max Out My Defense",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "405MB",
+						"link": "https://www.mediafire.com/file/y5km8xb56fcnq2j",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "僕らはみんな河合荘",
+				"engname": "The Kawai Complex Guide to Manors and Hostel Behavior",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "488MB",
+						"link": "https://www.mediafire.com/file/2tod0y8gjlrcvov",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ブギーポップは笑わない",
+				"engname": "Boogiepop and Others",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "18",
+						"size": "668MB",
+						"link": "https://www.mediafire.com/file/dxqtvtwcm37m4ro",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "キャロル&チューズデイ",
+				"engname": "Carole & Tuesday",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "698MB",
+						"link": "https://www.mediafire.com/file/h21u9r5u4b526hm",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "慎重勇者 ～この勇者が俺TUEEEくせに慎重すぎる～",
+				"engname": "Cautious Hero - The Hero is Overpowered but Overly Cautious",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "506MB",
+						"link": "https://www.mediafire.com/file/lvjfrvnvicibdz0",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "シャーロット",
+				"engname": "Charlotte",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "460MB",
+						"link": "https://www.mediafire.com/file/4hqajtzt7g75oor",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "シトラス",
+				"engname": "Citrus",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "378MB",
+						"link": "https://www.mediafire.com/file/gpiwr3kbje8ztva",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "CLANNAD",
+				"engname": "Clannad",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "22",
+						"size": "838MB",
+						"link": "https://www.mediafire.com/file/a8rrj46r38mbkwl",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "コードギアス 反逆のルルーシュ 続編",
+				"engname": "Code Geass Lelouch of the Rebellion R2",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "25",
+						"size": "145MB",
+						"link": "https://www.mediafire.com/file/gea9r7jj2rdqfo9",
+						"subslink": ""
+					},
+					{
+						"episodes": "25",
+						"size": "154MB",
+						"link": "https://www.mediafire.com/file/o98juvkkmx9kwg4",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "こみっくがーるず",
+				"engname": "Comic Girls",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "346MB",
+						"link": "https://www.mediafire.com/file/msy4y0ztwivthi8",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "コップクラフト",
+				"engname": "Cop Craft",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "403MB",
+						"link": "https://www.mediafire.com/file/4f9yicvlkb168fs",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "カウボーイビバップ",
+				"engname": "Cowboy Bebop",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "500MB",
+						"link": "https://www.mediafire.com/file/qlaprj52qxknccg",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "だがしかし",
+				"engname": "Dagashi Kashi",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "420MB",
+						"link": "https://www.mediafire.com/file/eobrgw46w5hpjk1",
+						"subslink": ""
+					},
+					{
+						"episodes": "12",
+						"size": "245MB",
+						"link": "https://www.mediafire.com/file/0q2mq1ybjl8ua2p",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ダメプリ ANIME CARAVAN",
+				"engname": "DamexPrince Anime Caravan",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "438MB",
+						"link": "https://www.mediafire.com/file/oehhgn5h5pn3u7p",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "黒の契約者",
+				"engname": "Darker Than Black",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "25",
+						"size": "910MB",
+						"link": "https://www.mediafire.com/file/ydbd0imyz0u5f07",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ダーリン・イン・ザ・フランキス",
+				"engname": "Darling in the FranXX",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "712MB",
+						"link": "https://www.mediafire.com/file/0e3na996p97wq3h",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "デート・ア・ライブ",
+				"engname": "Date A Live",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "440MB",
+						"link": "https://www.mediafire.com/file/ankwqkrih64ojkz",
+						"subslink": ""
+					},
+					{
+						"episodes": "12",
+						"size": "475MB",
+						"link": "https://www.mediafire.com/file/hnf1qtxdlrikeah",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "デスマーチからはじまる異世界狂想曲",
+				"engname": "Death March to the Parallel World Rhapsody",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "425MB",
+						"link": "https://www.mediafire.com/file/j3npsgl2ak9o572",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "デスノート",
+				"engname": "Death Note",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "37",
+						"size": "1.26GB",
+						"link": "https://www.mediafire.com/file/7zuwnxilbfxe111",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "亜人ちゃんは語りたい",
+				"engname": "Demi-chan wa Kataritai",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "426MB",
+						"link": "https://www.mediafire.com/file/fgtk7uhl033ubli",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "鬼滅の刃",
+				"engname": "Demon Slayer - Kimetsu no Yaiba",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "500MB",
+						"link": "https://www.mediafire.com/file/ngol8ld7bi1xdyb",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "Devilman Crybaby",
+				"engname": "Devilman Crybaby",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "10",
+						"size": "328MB",
+						"link": "https://www.mediafire.com/file/h3rzvc43xkz7m88",
+						"subslink": "https://www.mediafire.com/file/m5i0cfymhhoi42y"
+					}
+				]
+			},
+			{
+				"name": "デビルズライン",
+				"engname": "Devils Line",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "365MB",
+						"link": "https://www.mediafire.com/file/v13yhd90h108w9n",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "Didn't I Say to Make My Abilities Average in the Next Life!!",
+				"engname": "Didn't I Say to Make My Abilities Average in the Next Life!!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "466MB",
+						"link": "https://www.mediafire.com/file/c462nphmx5lj95v",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか?",
+				"engname": "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "436MB",
+						"link": "https://www.mediafire.com/file/2uhga9nf3m4vi6z",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ドロヘドロ",
+				"engname": "Dorohedoro",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "392MB",
+						"link": "https://www.mediafire.com/file/d0mb1753bf8vlgs",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "どろろ",
+				"engname": "Dororo (2019)",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "29",
+						"size": "736MB",
+						"link": "https://www.mediafire.com/file/hpjbi7mfqe4gx5k",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ドクターストーン",
+				"engname": "Dr. Stone",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "833MB",
+						"link": "https://www.mediafire.com/file/7ux98o5yp9hkdew",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "邪神ちゃんドロップキック",
+				"engname": "Dropkick on My Devil!!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "11",
+						"size": "475MB",
+						"link": "https://www.mediafire.com/file/mljh0eqrq5mpi16",
+						"subslink": ""
+					},
+					{
+						"episodes": "11",
+						"size": "471MB",
+						"link": "https://www.mediafire.com/file/4oh0uno9bhjz4rk",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "デュラララ!!",
+				"engname": "Durarara!!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "923MB",
+						"link": "https://www.mediafire.com/file/ktdvpzjidvsrd30",
+						"subslink": ""
+					},
+					{
+						"episodes": "36",
+						"size": "801MB",
+						"link": "https://www.mediafire.com/file/4svq5hev2evvmny",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": " 異次元の世界エルハザード",
+				"engname": "El Hazard - The Alternative World",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "367MB",
+						"link": "https://www.mediafire.com/file/ensfk254p7j2evt",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "",
+				"engname": "",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "",
+						"size": "",
+						"link": "",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "神秘の世界エルハザード",
+				"engname": "El Hazard - The Wanderers",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "650MB",
+						"link": "https://www.mediafire.com/file/pcaau0towsmbx51",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "フェアリーゴーン",
+				"engname": "Fairy Gone",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "705MB",
+						"link": "https://www.mediafire.com/file/qv36ap65a8h5gcv",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "交響詩篇エウレカセブン",
+				"engname": "Eureka Seven",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "50",
+						"size": "1.34GB",
+						"link": "https://www.mediafire.com/file/7k67boxu7thltru",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "フェアリーテイル",
+				"engname": "Fairy Tail S08",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "51",
+						"size": "1.78GB",
+						"link": "https://www.mediafire.com/file/svb62kn3pvisshu",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "フェイト/アポクリファ",
+				"engname": "Fate - Apocrypha",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "25",
+						"size": "778MB",
+						"link": "https://www.mediafire.com/file/dwjj9labur56oyj",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+				"engname": "Fate Grand Order - Absolute Demonic Front",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "21",
+						"size": "775MB",
+						"link": "https://www.mediafire.com/file/cmkqkvzg8verifx",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "Fate Stay Night - Unlimited Blade Works",
+				"engname": "Fate Stay Night - Unlimited Blade Works",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "25",
+						"size": "941MB",
+						"link": "https://www.mediafire.com/file/p4h3gpdu3pmg4t1",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "フェイト/ゼロ",
+				"engname": "Fate Zero",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "25",
+						"size": "907MB",
+						"link": "https://www.mediafire.com/file/ivdb09hlk27bsqo",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "フリクリ",
+				"engname": "FLCL",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "6",
+						"size": "189MB",
+						"link": "https://www.mediafire.com/file/lrbynmt1r68cexk",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "フリップフラッパーズ",
+				"engname": "Flip Flappers",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "315MB",
+						"link": "https://www.mediafire.com/file/dbz47euoiocfrrw",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ふらいんぐうぃっち",
+				"engname": "Flying Witch",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "341MB",
+						"link": "https://www.mediafire.com/file/idbuol43ask4r0u",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "新世界より",
+				"engname": "From the New World",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "25",
+						"size": "797MB",
+						"link": "https://www.mediafire.com/file/sbe2i7mw1u0hxly",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "フルーツバスケット",
+				"engname": "Fruits Basket (2019)",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "25",
+						"size": "675MB",
+						"link": "https://www.mediafire.com/file/4bjdqita1g4rgyt",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+				"engname": "Fullmetal Alchemist Brotherhood",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "64",
+						"size": "2.11GB",
+						"link": "https://www.mediafire.com/file/04bokbn54e0x4hx",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ガヴリールドロップアウト",
+				"engname": "Gabriel Dropout",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "390MB",
+						"link": "https://www.mediafire.com/file/8rd4n943j4cipsx",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "牙狼〈GARO〉-VANISHING LINE-",
+				"engname": "GARO -VANISHING LINE-",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "504MB",
+						"link": "https://www.mediafire.com/file/hibacg8txq51buj",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "攻殻機動隊 STAND ALONE COMPLEX",
+				"engname": "Ghost in the Shell Stand Alone Complex",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "744MB",
+						"link": "https://www.mediafire.com/file/r1qunec1wsjhpv6",
+						"subslink": ""
+					},
+					{
+						"episodes": "26",
+						"size": "776MB",
+						"link": "https://www.mediafire.com/file/b9fvyjeoiq4m78c",
+						"subslink": ""
+					},
+					{
+						"episodes": "12",
+						"size": "413MB",
+						"link": "https://www.mediafire.com/file/qlg1hj8as2t2vbw",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "銀魂",
+				"engname": "Gintama",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "49",
+						"size": "2GB",
+						"link": "https://www.mediafire.com/file/r1ayxfnlajss876",
+						"subslink": ""
+					},
+					{
+						"episodes": "50",
+						"size": "2GB",
+						"link": "https://www.mediafire.com/file/t23secvrb8xmww1",
+						"subslink": ""
+					},
+					{
+						"episodes": "51",
+						"size": "2GB",
+						"link": "https://www.mediafire.com/file/vew80bk0ggkcpe7",
+						"subslink": ""
+					},
+					{
+						"episodes": "51",
+						"size": "2GB",
+						"link": "https://www.mediafire.com/file/ws4zyq9q12gee29",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ゴブリンスレイヤー",
+				"engname": "Goblin Slayer",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "396MB",
+						"link": "https://www.mediafire.com/file/bmt7ap637f5vhnt",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ゴッドイーター",
+				"engname": "God Eater",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "310MB",
+						"link": "https://www.mediafire.com/file/mvihhe9tdft3j44",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ゴールデンタイム",
+				"engname": "Golden Time",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "825MB",
+						"link": "https://www.mediafire.com/file/bg3g8l5xm5zh8dv",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "電波女と青春男",
+				"engname": "Ground Control to Psychoelectric Girl",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "480MB",
+						"link": "https://www.mediafire.com/file/wc2dxk1blaf8t4s",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ギルティクラウン",
+				"engname": "Guilty Crown",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "22",
+						"size": "560MB",
+						"link": "https://www.mediafire.com/file/x0ebtsgakzpr76o",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "博多豚骨ラーメンズ",
+				"engname": "Hakata Tonkotsu Ramens",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "443MB",
+						"link": "https://www.mediafire.com/file/22wj30uod7bdqfl",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ハクメイとミコチ",
+				"engname": "Hakumei and Mikochi",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "405MB",
+						"link": "https://www.mediafire.com/file/4cv3kmni7z847tq",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "覇穹 封神演義",
+				"engname": "HAKYUU HOSHIN ENGI",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "23",
+						"size": "580MB",
+						"link": "https://www.mediafire.com/file/q6qgpbn8l3p3bct",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ハッピーシュガーライフ",
+				"engname": "Happy Sugar Life",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "420MB",
+						"link": "https://www.mediafire.com/file/exjdkdb59j0kzj2",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "はたらく細胞",
+				"engname": "Hataraku Saibou",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "346MB",
+						"link": "https://www.mediafire.com/file/jf117l79pt787p2",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "可愛ければ変態でも好きになってくれますか？",
+				"engname": "Hensuki - Are you willing to fall in love with a pervert, as long as she's a cutie!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "471MB",
+						"link": "https://www.mediafire.com/file/tebt8mdiwtzip12",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "響け！ユーフォニアム",
+				"engname": "Sound! Euphonium",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13 + 1 special",
+						"size": "478",
+						"link": "https://www.mediafire.com/file/sqhhxf0illndiqc",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "超人高校生たちは異世界でも余裕で生き抜くようです!",
+				"engname": "High School Prodigies Have It Easy Even in Another World!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "433MB",
+						"link": "https://www.mediafire.com/file/k4hsow7crmskqh6",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ハイスコアガール",
+				"engname": "High Score Girl",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "520MB",
+						"link": "https://www.mediafire.com/file/x6wlv77vzyex7xv",
+						"subslink": ""
+					},
+					{
+						"episodes": "9",
+						"size": "296MB",
+						"link": "https://www.mediafire.com/file/cmc4gobhew23fvl",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": " ヒナまつり",
+				"engname": "Hinamatsuri",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "430MB",
+						"link": "https://www.mediafire.com/file/hzeplvwk6p1a57b",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "Fist of the North Star",
+				"engname": "Hokuto no Ken",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "109",
+						"size": "2.69GB",
+						"link": "https://www.mediafire.com/file/z02mbxya2oqh9od",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "宝石の国",
+				"engname": "Land of the Lustrous",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "323MB",
+						"link": "https://www.mediafire.com/file/7xqmrcrzxtfrqpi",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ダンベル何キロ持てる？",
+				"engname": "How Heavy Are the Dumbbells You Lift!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "465MB",
+						"link": "https://www.mediafire.com/file/wticwzkp36fkpvr",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "異世界魔王と召喚少女の奴隷魔術",
+				"engname": "How Not to Summon a Demon Lord",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "451MB",
+						"link": "https://www.mediafire.com/file/ser67dbyogff79j",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ミイラの飼い方",
+				"engname": "How to Keep a Mummy",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "356MB",
+						"link": "https://www.mediafire.com/file/ejstrbcxbbz0ztc",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "鬼灯の冷徹",
+				"engname": "Hozuki's Coolheadedness",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "532MB",
+						"link": "https://www.mediafire.com/file/m9bucrpwiotld10",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "アイドリッシュセブン",
+				"engname": "IDOLiSH7",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "17",
+						"size": "775MB",
+						"link": "https://www.mediafire.com/file/8mog60hgru1kch6",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない",
+				"engname": "If It's for My Daughter, I'd Even Defeat a Demon Lord",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "426MB",
+						"link": "https://www.mediafire.com/file/agr1lmgorumccq0",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "異国迷路のクロワーゼ",
+				"engname": "Ikoku Meiro no Croisée",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "335MB",
+						"link": "https://www.mediafire.com/file/ls8i18yut09f97h",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "<Infinite Dendrogram>-インフィニット・デンドログラム-",
+				"engname": "Infinite Dendrogram",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "530MB",
+						"link": "https://www.mediafire.com/file/2ave2zwgctswhe5",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "異能バトルは日常系のなかで",
+				"engname": "When Supernatural Battles Became Commonplace",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "487MB",
+						"link": "https://www.mediafire.com/file/5h5pz15qlyfwhxp",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "妖狐×僕SS",
+				"engname": "Inu x Boku SS",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "323MB",
+						"link": "https://www.mediafire.com/file/cdrtrl10g1eg3e6",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "色づく世界の明日から",
+				"engname": "IRODUKU - The World in Colors",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "505MB",
+						"link": "https://www.mediafire.com/file/etvyy2pwcu6u49t",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "異世界チート魔術師",
+				"engname": "Isekai Cheat Magician",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "427MB",
+						"link": "https://www.mediafire.com/file/m12go0gyhnn90jt",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ISLAND",
+				"engname": "ISLAND",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "382MB",
+						"link": "https://www.mediafire.com/file/62bpai98bid4eqf",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ヲタクに恋は難しい",
+				"engname": "It's Difficult to Love an Otaku",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "11",
+						"size": "452MB",
+						"link": "https://www.mediafire.com/file/h1mxl6pt02q91ce",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "地獄少女",
+				"engname": "Hell Girl",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "994MB",
+						"link": "https://www.mediafire.com/file/vam5zf13z1ug2vs",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "",
+				"engname": "JoJo's Bizzare Adventure",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "820MB",
+						"link": "https://www.mediafire.com/file/nr3mb9grsk0s7s6",
+						"subslink": ""
+					},
+					{
+						"episodes": "48",
+						"size": "1.8GB",
+						"link": "https://www.mediafire.com/file/h3sv9w26arz0azx",
+						"subslink": ""
+					},
+					{
+						"episodes": "39",
+						"size": "1.43GB",
+						"link": "https://www.mediafire.com/file/r0tpt0xquuq2fsc",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "伊藤潤二「コレクション」",
+				"engname": "Junji Ito Collection",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "405MB",
+						"link": "https://www.mediafire.com/file/duakpx6428ien3b",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "けいおん!",
+				"engname": "K-ON!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "14",
+						"size": "477MB",
+						"link": "https://www.mediafire.com/file/u5s71qge9izjcpy",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "賭ケグルイ",
+				"engname": "Kakegurui",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "530MB",
+						"link": "https://www.mediafire.com/file/28ht2pm675oqchv",
+						"subslink": ""
+					},
+					{
+						"episodes": "12",
+						"size": "441MB",
+						"link": "https://www.mediafire.com/file/g7aa6w1tidtlu7s",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "かくりよの宿飯",
+				"engname": "Kakuriyo: Bed and Breakfast for Spirits",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "1GB",
+						"link": "https://www.mediafire.com/file/exl3masdc4vt3mg",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "かくしごと",
+				"engname": "Kakushigoto",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "472MB",
+						"link": "https://www.mediafire.com/file/eedp54mbm9u1nam",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "刀使ノ巫女",
+				"engname": "Katana Maidens ~ Toji No Miko",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "703MB",
+						"link": "https://www.mediafire.com/file/y7xlscn7pi9zkyp",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "刀語",
+				"engname": "Katanagatari",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "1GB",
+						"link": "https://www.mediafire.com/file/7t7dr1pq6i4f9jx",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": " 風のスティグマ",
+				"engname": "Kaze no Stigma",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "1GB",
+						"link": "https://www.mediafire.com/file/lzfrxwmiwj1vemi",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "映像研には手を出すな！",
+				"engname": "Keep Your Hands Off Eizouken",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "427MB",
+						"link": "https://www.mediafire.com/file/d4ummfjeip48opn",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": " 競女!!!!!!!!",
+				"engname": "Keijo!!!!!!!!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "420MB",
+						"link": "https://www.mediafire.com/file/697l4ehsvlkawap",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "けものフレンズ",
+				"engname": "Kemono Friends",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "443MB",
+						"link": "https://www.mediafire.com/file/c8ufhvwimgv1iyu",
+						"subslink": ""
+					},
+					{
+						"episodes": "12",
+						"size": "383MB",
+						"link": "https://www.mediafire.com/file/uonjcaebx2xhc2v",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ケモノヅメ",
+				"engname": "Kemonozume (2006)",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "411MB",
+						"link": "https://www.mediafire.com/file/duflh493zsytw4q",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ケムリクサ",
+				"engname": "Kemurikusa",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "11",
+						"size": "420MB",
+						"link": "https://www.mediafire.com/file/y620foyrck81pal",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "キルラキル",
+				"engname": "Kill la Kill",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "881MB",
+						"link": "https://www.mediafire.com/file/pq1dz1uj30ef1w0",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "キリングバイツ",
+				"engname": "Killing Bites",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "495MB",
+						"link": "https://www.mediafire.com/file/54u5mguouauh1ob",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "キノの旅",
+				"engname": "Kino no Tabi",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "458MB",
+						"link": "https://www.mediafire.com/file/877iiuv8l80btoe",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "刻刻",
+				"engname": "Kokkoku- Moment by Moment",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "458MB",
+						"link": "https://www.mediafire.com/file/p3njmfrngw02yz5",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "荒野のコトブキ飛行隊",
+				"engname": "The Magnificent Kotobuki",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "414MB",
+						"link": "https://www.mediafire.com/file/reggjnolbo8999f",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "境界の彼方",
+				"engname": "Beyond the Boundary",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "373MB",
+						"link": "https://www.mediafire.com/file/pcuotbz2u6ayas6",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "リトルウィッチアカデミア",
+				"engname": "Little Witch Academia",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "25",
+						"size": "755MB",
+						"link": "https://www.mediafire.com/file/lgobxnfsglge6gj",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ロード・エルメロイⅡ世の事件簿",
+				"engname": "Lord El-Melloi II Case Files",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "407MB",
+						"link": "https://www.mediafire.com/file/b4yb3dknk6n3u9y",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "中二病でも恋がしたい!",
+				"engname": "Love, Chunibyo & Other Delusions!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "347MB",
+						"link": "https://www.mediafire.com/file/rb7wybvjkhmr9gl",
+						"subslink": ""
+					},
+					{
+						"episodes": "12",
+						"size": "450MB",
+						"link": "https://www.mediafire.com/file/8fmjwuw7u52zvhk",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "メイドインアビス",
+				"engname": "Made in Abyss",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "457MB",
+						"link": "https://www.mediafire.com/file/93957suxjrf5xs1",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": " 魔法少女まどか☆マギカ",
+				"engname": "Madoka Magica",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "385MB",
+						"link": "https://www.mediafire.com/file/7w5i6s78bkhjkde",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "3月のライオン",
+				"engname": "March Comes in Like a Lion",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "22",
+						"size": "462MB",
+						"link": "https://www.mediafire.com/file/bbnkvtyw8lzbg8h",
+						"subslink": ""
+					},
+					{
+						"episodes": "22",
+						"size": "475MB",
+						"link": "https://www.mediafire.com/file/rlmgivm9kv00xdl",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "メガロボクス",
+				"engname": "Megalo Box",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "372MB",
+						"link": "https://www.mediafire.com/file/3z5nehppa3b0hvt",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "小林さんちのメイドラゴン",
+				"engname": "Miss Kobayashi's Dragon Maid",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "448MB",
+						"link": "https://www.mediafire.com/file/z2455wd6dq65z6c",
+						"subslink": "https://www.mediafire.com/file/2c8njhgtd2cki41"
+					}
+				]
+			},
+			{
+				"name": "モブサイコ100",
+				"engname": "Mob Psycho 100",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "426MB",
+						"link": "https://www.mediafire.com/file/es4m18bsxt7fdrx",
+						"subslink": ""
+					},
+					{
+						"episodes": "13",
+						"size": "537MB",
+						"link": "https://www.mediafire.com/file/b589peucyuyjegb",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "物語",
+				"engname": "Monogatari",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "15",
+						"size": "622.46",
+						"link": "https://www.mediafire.com/file/601f3t7m9dvxex8",
+						"subslink": ""
+					},
+					{
+						"episodes": "11",
+						"size": "448MB",
+						"link": "https://www.mediafire.com/file/fcci1baxrsqvm40",
+						"subslink": ""
+					},
+					{
+						"episodes": "23",
+						"size": "1GB",
+						"link": "https://www.mediafire.com/file/23yrecz250fkeqb",
+						"subslink": ""
+					},
+					{
+						"episodes": "12",
+						"size": "575MB",
+						"link": "https://www.mediafire.com/file/nk5j3poywew1gwu",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "蟲師",
+				"engname": "Mushishi",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "763MB",
+						"link": "https://www.mediafire.com/file/iqdfuowba1co7d0",
+						"subslink": ""
+					},
+					{
+						"episodes": "20",
+						"size": "386MB",
+						"link": "https://www.mediafire.com/file/j51t38kox5i42zw",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": " 僕のヒーローアカデミア",
+				"engname": "My Hero Academia",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "379MB",
+						"link": "https://www.mediafire.com/file/xhpi75m2qyrz5wa",
+						"subslink": ""
+					},
+					{
+						"episodes": "25",
+						"size": "963MB",
+						"link": "https://www.mediafire.com/file/1nawdenc95d0xwd",
+						"subslink": ""
+					},
+					{
+						"episodes": "25",
+						"size": "979MB",
+						"link": "https://www.mediafire.com/file/h2paq8raoimim08",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
+				"engname": "My Next Life as a Villainess - All Routes Lead to Doom!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "438MB",
+						"link": "https://www.mediafire.com/file/4xnk0p9z6bs42lz",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "",
+				"engname": "My Teen Romantic Comedy SNAFU",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "453MB",
+						"link": "https://www.mediafire.com/file/0fo29bgew5q2niu",
+						"subslink": "https://www.mediafire.com/file/dw5cz45bgkevf5x"
+					},
+					{
+						"episodes": "13",
+						"size": "480MB",
+						"link": "https://www.mediafire.com/file/lv409qqanjlbobl",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "新世紀エヴァンゲリオン",
+				"engname": "Neon Genesis Evangelion",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "905MB",
+						"link": "https://www.mediafire.com/file/5fl9qfo141ftmut",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "日常",
+				"engname": "Nichijou",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "635MB",
+						"link": "https://www.mediafire.com/file/4rsuxkmbbkdkgfp",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "O Maidens in Your Savage Season",
+				"engname": "O Maidens in Your Savage Season",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "525MB",
+						"link": "https://www.mediafire.com/file/7jde4am25cczdne",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ワンパンマン",
+				"engname": "One Punch Man",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "375MB",
+						"link": "https://www.mediafire.com/file/4jgr6icv3onnxx6",
+						"subslink": ""
+					},
+					{
+						"episodes": "12",
+						"size": "490MB",
+						"link": "https://www.mediafire.com/file/jwuxvqadoka282s",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "オーバーロード",
+				"engname": "Overlord",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "525MB",
+						"link": "https://www.mediafire.com/file/9s1hoq062c922re",
+						"subslink": ""
+					},
+					{
+						"episodes": "13",
+						"size": "485MB",
+						"link": "https://www.mediafire.com/file/1lq98w2ch8kirry",
+						"subslink": ""
+					},
+					{
+						"episodes": "13",
+						"size": "496MB",
+						"link": "https://www.mediafire.com/file/lddgmmnsj6ozcue",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "パンティ＆ストッキングwithガーターベルト",
+				"engname": "Panty & Stocking with Garterbelt",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "440MB",
+						"link": "https://www.mediafire.com/file/kmwe5cuf0k09o7d",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "寄生獣",
+				"engname": "Parasyte",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "587MB",
+						"link": "https://www.mediafire.com/file/2t0ostp5hq36xfq",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ピンポン THE ANIMATION",
+				"engname": "Ping Pong The Animation",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "11",
+						"size": "323MB",
+						"link": "https://www.mediafire.com/file/vl565pml6boqrz0",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "プラネテス",
+				"engname": "Planetes",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "1GB",
+						"link": "https://www.mediafire.com/file/8pky647egpjcl25",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "Princess Connect! Re-Dive",
+				"engname": "Princess Connect! Re-Dive",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "470MB",
+						"link": "https://www.mediafire.com/file/tukp6qlvi3rlljb",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ラディアン",
+				"engname": "Radiant",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "21",
+						"size": "783MB",
+						"link": "https://www.mediafire.com/file/o5lg1gb9myi2h4q",
+						"subslink": ""
+					},
+					{
+						"episodes": "21",
+						"size": "791MB",
+						"link": "https://www.mediafire.com/file/q7d9yzl0xz0au3k",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "Re:ゼロから始める異世界生活",
+				"engname": "ReZero",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "25",
+						"size": "1GB",
+						"link": "https://www.mediafire.com/file/1pbmx1x9rqvnjjn",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "風が強く吹いている",
+				"engname": "Run with the Wind",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "23",
+						"size": "702MB",
+						"link": "https://www.mediafire.com/file/hm2dznc8uhxb9r5",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "狼と香辛料",
+				"engname": "Spice and Wolf",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "405MB",
+						"link": "https://www.mediafire.com/file/ctkvnqs34pb04r3",
+						"subslink": ""
+					},
+					{
+						"episodes": "12",
+						"size": "459MB",
+						"link": "https://www.mediafire.com/file/u8f4avzzaw2zbqv",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "SSSS.GRIDMAN",
+				"engname": "SSSS.GRIDMAN",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "358MB",
+						"link": "https://www.mediafire.com/file/5zprtdjk6v336mi",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "シュタインズ・ゲート",
+				"engname": "Steins;Gate",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "845MB",
+						"link": "https://www.mediafire.com/file/k2ik09bwlk77ph9",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "シュタインズ・ゲート ゼロ",
+				"engname": "Steins;Gate Zero",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "23",
+						"size": "845MB",
+						"link": "https://www.mediafire.com/file/lhgy3lam2x01or7",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ストライク・ザ・ブラッド",
+				"engname": "Strike the Blood",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "851MB",
+						"link": "https://www.mediafire.com/file/axycu4stb3vp9gu",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "盾の勇者の成り上がり",
+				"engname": "The Rising of the Shield Hero",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "25",
+						"size": "846MB",
+						"link": "https://www.mediafire.com/file/0509q7yvbu4wx5h",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "からかい上手の高木さん",
+				"engname": "Teasing Master Takagi-san",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "413MB",
+						"link": "https://www.mediafire.com/file/neb0euzevwvx3by",
+						"subslink": ""
+					},
+					{
+						"episodes": "12",
+						"size": "415MB",
+						"link": "https://www.mediafire.com/file/d4ma7vxxcxyr4di",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "テラスハウス ボーイズ＆ガールズ イン・ザ・シティ",
+				"engname": "Terrace House - Boys & Girls in the City",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "18",
+						"size": "915MB",
+						"link": "https://www.mediafire.com/file/5celhxyu5x6nwm6",
+						"subslink": ""
+					},
+					{
+						"episodes": "28",
+						"size": "1.63GB",
+						"link": "https://www.mediafire.com/file/mt8xtga5c5lwueq",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "テラスハウス Tokyo",
+				"engname": "Terrace House - Tokyo",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "1.3GB",
+						"link": "https://www.mediafire.com/file/8jq9oov3i9x292b",
+						"subslink": ""
+					},
+					{
+						"episodes": "12",
+						"size": "720MB",
+						"link": "https://www.mediafire.com/file/kjtanu9uu9bvr4h",
+						"subslink": ""
+					},
+					{
+						"episodes": "12",
+						"size": "1GB",
+						"link": "https://www.mediafire.com/file/rvj4hdxul7c5ewh",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "転生したらスライムだった件",
+				"engname": "That Time I Got Reincarnated as a Slime",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "880MB",
+						"link": "https://www.mediafire.com/file/gd3kls75yyujp47",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "世話やきキツネの仙狐さん",
+				"engname": "The Helpful Fox Senko-san",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "386MB",
+						"link": "https://www.mediafire.com/file/lhdaxrbspicn92d",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "伝説の勇者の伝説",
+				"engname": "The Legend of the Legendary Heroes",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "770MB",
+						"link": "https://www.mediafire.com/file/v8f8nok6r8oli0f",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "約束のネバーランド",
+				"engname": "The Promised Neverland",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "306MB",
+						"link": "https://www.mediafire.com/file/yf4eckmqqeca97q",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "五等分の花嫁",
+				"engname": "The Quintessential Quintuplets",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "464MB",
+						"link": "https://www.mediafire.com/file/sj1smozz0lc2jlv",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "七つの大罪",
+				"engname": "The Seven Deadly Sins",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "940MB",
+						"link": "https://www.mediafire.com/file/ugqswouvbqkkni2",
+						"subslink": ""
+					},
+					{
+						"episodes": "24",
+						"size": "918MB",
+						"link": "https://www.mediafire.com/file/p1dmuj42jhwf0qh",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "四畳半神話大系",
+				"engname": "The Tatami Galaxy",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "11",
+						"size": "385MB",
+						"link": "https://www.mediafire.com/file/jd1nnw7a5v9v5ky",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "Toradora!",
+				"engname": "Toradora!",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "25",
+						"size": "972MB",
+						"link": "https://www.mediafire.com/file/pldecgnxyt9wdtt",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "神之塔 -Tower of God-",
+				"engname": "Tower of God",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "453MB",
+						"link": "https://www.mediafire.com/file/lhr0seck22479v5",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "うさぎドロップ",
+				"engname": "Usagi Drop",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "11",
+						"size": "325MB",
+						"link": "https://www.mediafire.com/file/svp8rfqqxq1wlg0",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "四月は君の嘘",
+				"engname": "Your Lie in April",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "22",
+						"size": "413MB",
+						"link": "https://www.mediafire.com/file/k66w0dowvxfe3cx",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ゆるキャン△",
+				"engname": "Laid-Back Camp",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "360MB",
+						"link": "https://www.mediafire.com/file/noy2fps7hnis1bo",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "ゾンビランドサガ",
+				"engname": "Zombie Land Saga",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgs": [
+					
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "330MB",
+						"link": "https://www.mediafire.com/file/brx14pp7j7mmad8",
 						"subslink": ""
 					}
 				]
