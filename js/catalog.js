@@ -1568,13 +1568,13 @@ const catalog = {
 					{
 						"episodes": "25",
 						"size": "145MB",
-						"link": "https://www.mediafire.com/file/gea9r7jj2rdqfo9",
+						"link": "http://www.mediafire.com/file/5slklmrskr3eipk/Code+Geass+Lelouch+of+the+Rebellion+R1.zip/file",
 						"subslink": ""
 					},
 					{
 						"episodes": "25",
 						"size": "154MB",
-						"link": "https://www.mediafire.com/file/o98juvkkmx9kwg4",
+						"link": "http://www.mediafire.com/file/e4aicwsyj5is22g/Code+Geass+Lelouch+of+the+Rebellion+R2.zip/file",
 						"subslink": ""
 					}
 				]
@@ -1875,7 +1875,7 @@ const catalog = {
 					{
 						"episodes": "12",
 						"size": "392MB",
-						"link": "https://www.mediafire.com/file/d0mb1753bf8vlgs",
+						"link": "http://www.mediafire.com/file/7s61wfyaaariz9f/file",
 						"subslink": ""
 					}
 				]
