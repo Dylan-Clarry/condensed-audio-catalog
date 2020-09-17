@@ -901,9 +901,9 @@ const catalog = {
 				"name": "イエスタデイをうたって",
 				"engname": "Sing Yesterday for Me",
 				"language": "Japanese",
-				"imgfolder": "./assets/imgs/japanese/shows/",
+				"imgfolder": "./assets/imgs/japanese/shows/イエスタデイをうたって",
 				"imgs": [
-					
+					"イエスタデイをうたってimg1",
 				],
 				"seasons": [
 					{
@@ -911,6 +911,171 @@ const catalog = {
 						"size": "360MB",
 						"link": "http://www.mediafire.com/file/v1i5jsak4l7r6re/SING_YESTERDAY_FOR_ME.condensed.zip/file",
 						"subslink": "http://www.mediafire.com/file/bu0t8vk6tn1m6lw/SING_YESTERDAY_FOR_ME.ja.srt.zip/file"
+					}
+				]
+			},
+			{
+				"name": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+				"engname": "Rascal Does Not Dream of Bunny Girl Senpai",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/青春ブタ野郎はバニーガール先輩の夢を見ない",
+				"imgs": [
+					"青春ブタ野郎はバニーガール先輩の夢を見ないimg1",
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "511MB",
+						"link": "http://www.mediafire.com/file/iv7bzvad6ym1rym/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai.zip/file",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "カウボーイビバップ",
+				"engname": "Cowboy Bebop",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/カウボーイビバップ",
+				"imgs": [
+					"カウボーイビバップimg1",
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "500MB",
+						"link": "https://www.mediafire.com/file/qlaprj52qxknccg",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "響け！ユーフォニアム",
+				"engname": "Sound! Euphonium",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/響け！ユーフォニアム",
+				"imgs": [
+					"響け！ユーフォニアムimg1",
+				],
+				"seasons": [
+					{
+						"episodes": "13 + 1 special",
+						"size": "478",
+						"link": "https://www.mediafire.com/file/sqhhxf0illndiqc",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "キルラキル",
+				"engname": "Kill la Kill",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/キルラキル",
+				"imgs": [
+					"キルラキルimg1",
+				],
+				"seasons": [
+					{
+						"episodes": "24",
+						"size": "881MB",
+						"link": "https://www.mediafire.com/file/pq1dz1uj30ef1w0",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "魔法少女まどか☆マギカ",
+				"engname": "Madoka Magica",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/魔法少女まどか☆マギカ",
+				"imgs": [
+					"魔法少女まどか☆マギカimg1",
+				],
+				"seasons": [
+					{
+						"episodes": "12",
+						"size": "385MB",
+						"link": "https://www.mediafire.com/file/7w5i6s78bkhjkde",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": " 僕のヒーローアカデミア",
+				"engname": "My Hero Academia",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/僕のヒーローアカデミア",
+				"imgs": [
+					"僕のヒーローアカデミアimg1",
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "379MB",
+						"link": "https://www.mediafire.com/file/xhpi75m2qyrz5wa",
+						"subslink": ""
+					},
+					{
+						"episodes": "25",
+						"size": "963MB",
+						"link": "https://www.mediafire.com/file/1nawdenc95d0xwd",
+						"subslink": ""
+					},
+					{
+						"episodes": "25",
+						"size": "979MB",
+						"link": "https://www.mediafire.com/file/h2paq8raoimim08",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "日常",
+				"engname": "Nichijou",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/日常",
+				"imgs": [
+					"日常img1",
+				],
+				"seasons": [
+					{
+						"episodes": "26",
+						"size": "635MB",
+						"link": "https://www.mediafire.com/file/4rsuxkmbbkdkgfp",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "メガロボクス",
+				"engname": "Megalo Box",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/メガロボクス",
+				"imgs": [
+					"メガロボクスimg1",
+				],
+				"seasons": [
+					{
+						"episodes": "13",
+						"size": "372MB",
+						"link": "https://www.mediafire.com/file/3z5nehppa3b0hvt",
+						"subslink": ""
+					}
+				]
+			},
+			{
+				"name": "北斗の拳",
+				"engname": "Fist of the North Star",
+				"language": "Japanese",
+				"imgfolder": "./assets/imgs/japanese/shows/北斗の拳",
+				"imgs": [
+					"北斗の拳img1",
+				],
+				"seasons": [
+					{
+						"episodes": "109",
+						"size": "2.69GB",
+						"link": "https://www.mediafire.com/file/z02mbxya2oqh9od",
+						"subslink": ""
 					}
 				]
 			},
@@ -1024,23 +1189,6 @@ const catalog = {
 						"episodes": "12",
 						"size": "286MB",
 						"link": "http://www.mediafire.com/file/agvdpb0u33nuw9h/ERASED.zip/file",
-						"subslink": ""
-					}
-				]
-			},
-			{
-				"name": "青春ブタ野郎はバニーガール先輩の夢を見ない",
-				"engname": "Rascal Does Not Dream of Bunny Girl Senpai",
-				"language": "Japanese",
-				"imgfolder": "./assets/imgs/japanese/shows/",
-				"imgs": [
-					
-				],
-				"seasons": [
-					{
-						"episodes": "13",
-						"size": "511MB",
-						"link": "http://www.mediafire.com/file/iv7bzvad6ym1rym/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai.zip/file",
 						"subslink": ""
 					}
 				]
@@ -1614,23 +1762,6 @@ const catalog = {
 				]
 			},
 			{
-				"name": "カウボーイビバップ",
-				"engname": "Cowboy Bebop",
-				"language": "Japanese",
-				"imgfolder": "./assets/imgs/japanese/shows/",
-				"imgs": [
-					
-				],
-				"seasons": [
-					{
-						"episodes": "26",
-						"size": "500MB",
-						"link": "https://www.mediafire.com/file/qlaprj52qxknccg",
-						"subslink": ""
-					}
-				]
-			},
-			{
 				"name": "だがしかし",
 				"engname": "Dagashi Kashi",
 				"language": "Japanese",
@@ -1973,23 +2104,6 @@ const catalog = {
 						"episodes": "13",
 						"size": "367MB",
 						"link": "https://www.mediafire.com/file/ensfk254p7j2evt",
-						"subslink": ""
-					}
-				]
-			},
-			{
-				"name": "",
-				"engname": "",
-				"language": "Japanese",
-				"imgfolder": "./assets/imgs/japanese/shows/",
-				"imgs": [
-					
-				],
-				"seasons": [
-					{
-						"episodes": "",
-						"size": "",
-						"link": "",
 						"subslink": ""
 					}
 				]
@@ -2518,23 +2632,6 @@ const catalog = {
 				]
 			},
 			{
-				"name": "響け！ユーフォニアム",
-				"engname": "Sound! Euphonium",
-				"language": "Japanese",
-				"imgfolder": "./assets/imgs/japanese/shows/",
-				"imgs": [
-					
-				],
-				"seasons": [
-					{
-						"episodes": "13 + 1 special",
-						"size": "478",
-						"link": "https://www.mediafire.com/file/sqhhxf0illndiqc",
-						"subslink": ""
-					}
-				]
-			},
-			{
 				"name": "超人高校生たちは異世界でも余裕で生き抜くようです!",
 				"engname": "High School Prodigies Have It Easy Even in Another World!",
 				"language": "Japanese",
@@ -2587,23 +2684,6 @@ const catalog = {
 						"episodes": "12",
 						"size": "430MB",
 						"link": "https://www.mediafire.com/file/hzeplvwk6p1a57b",
-						"subslink": ""
-					}
-				]
-			},
-			{
-				"name": "Fist of the North Star",
-				"engname": "Hokuto no Ken",
-				"language": "Japanese",
-				"imgfolder": "./assets/imgs/japanese/shows/",
-				"imgs": [
-					
-				],
-				"seasons": [
-					{
-						"episodes": "109",
-						"size": "2.69GB",
-						"link": "https://www.mediafire.com/file/z02mbxya2oqh9od",
 						"subslink": ""
 					}
 				]
@@ -2881,7 +2961,7 @@ const catalog = {
 				]
 			},
 			{
-				"name": "",
+				"name": "ジョジョの奇妙な冒険",
 				"engname": "JoJo's Bizzare Adventure",
 				"language": "Japanese",
 				"imgfolder": "./assets/imgs/japanese/shows/",
@@ -3143,23 +3223,6 @@ const catalog = {
 				]
 			},
 			{
-				"name": "キルラキル",
-				"engname": "Kill la Kill",
-				"language": "Japanese",
-				"imgfolder": "./assets/imgs/japanese/shows/",
-				"imgs": [
-					
-				],
-				"seasons": [
-					{
-						"episodes": "24",
-						"size": "881MB",
-						"link": "https://www.mediafire.com/file/pq1dz1uj30ef1w0",
-						"subslink": ""
-					}
-				]
-			},
-			{
 				"name": "キリングバイツ",
 				"engname": "Killing Bites",
 				"language": "Japanese",
@@ -3319,23 +3382,6 @@ const catalog = {
 				]
 			},
 			{
-				"name": " 魔法少女まどか☆マギカ",
-				"engname": "Madoka Magica",
-				"language": "Japanese",
-				"imgfolder": "./assets/imgs/japanese/shows/",
-				"imgs": [
-					
-				],
-				"seasons": [
-					{
-						"episodes": "12",
-						"size": "385MB",
-						"link": "https://www.mediafire.com/file/7w5i6s78bkhjkde",
-						"subslink": ""
-					}
-				]
-			},
-			{
 				"name": "3月のライオン",
 				"engname": "March Comes in Like a Lion",
 				"language": "Japanese",
@@ -3354,23 +3400,6 @@ const catalog = {
 						"episodes": "22",
 						"size": "475MB",
 						"link": "https://www.mediafire.com/file/rlmgivm9kv00xdl",
-						"subslink": ""
-					}
-				]
-			},
-			{
-				"name": "メガロボクス",
-				"engname": "Megalo Box",
-				"language": "Japanese",
-				"imgfolder": "./assets/imgs/japanese/shows/",
-				"imgs": [
-					
-				],
-				"seasons": [
-					{
-						"episodes": "13",
-						"size": "372MB",
-						"link": "https://www.mediafire.com/file/3z5nehppa3b0hvt",
 						"subslink": ""
 					}
 				]
@@ -3520,7 +3549,7 @@ const catalog = {
 				]
 			},
 			{
-				"name": "",
+				"name": "やはり俺の青春ラブコメはまちがっている",
 				"engname": "My Teen Romantic Comedy SNAFU",
 				"language": "Japanese",
 				"imgfolder": "./assets/imgs/japanese/shows/",
@@ -3555,23 +3584,6 @@ const catalog = {
 						"episodes": "26",
 						"size": "905MB",
 						"link": "https://www.mediafire.com/file/5fl9qfo141ftmut",
-						"subslink": ""
-					}
-				]
-			},
-			{
-				"name": "日常",
-				"engname": "Nichijou",
-				"language": "Japanese",
-				"imgfolder": "./assets/imgs/japanese/shows/",
-				"imgs": [
-					
-				],
-				"seasons": [
-					{
-						"episodes": "26",
-						"size": "635MB",
-						"link": "https://www.mediafire.com/file/4rsuxkmbbkdkgfp",
 						"subslink": ""
 					}
 				]
@@ -4096,7 +4108,7 @@ const catalog = {
 				]
 			},
 			{
-				"name": "Toradora!",
+				"name": "とらドラ！",
 				"engname": "Toradora!",
 				"language": "Japanese",
 				"imgfolder": "./assets/imgs/japanese/shows/",
